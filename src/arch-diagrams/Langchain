@@ -1,11 +1,3 @@
-# agentic-ai-apps
-This repo contains all my apps , projects related to gen-ai, llm, agentic ai applications etc
-
-# Langchain
-
-mermaid diagram 
-```mermaid
-
 graph TD
     subgraph "INPUT PROCESSING"
         direction LR
@@ -35,4 +27,3 @@ graph TD
     class UserInput,PromptTemplate,ExampleSelector input;
     class LanguageModels,ChatModels core;
     class OutputParsers,FinalResult output;
-```
