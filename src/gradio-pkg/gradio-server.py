@@ -12,6 +12,7 @@ iface = gr.Interface(
     fn=greet,
     inputs=[
         gr.Textbox(label="Name"),
+        gr.Slider(minimum=1, maximum=10, step=1, label="Excitement Level"),
         gr.Radio(choices=["Normal", "Loud", "Whisper"], label="Greeting Intensity")
     ],
     outputs=gr.Textbox(label="Greeting"),
