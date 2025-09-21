@@ -61,8 +61,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/notebooks/machine_learning" />
       <recent name="$PROJECT_DIR$/src/notebooks" />
+      <recent name="$PROJECT_DIR$/src/notebooks/machine_learning" />
     </key>
   </component>
   <component name="RunManager">
@@ -104,6 +104,8 @@
       <option name="presentableId" value="Default" />
       <updated>1757667742768</updated>
       <workItem from="1757667744789" duration="5054000" />
+      <workItem from="1758163933176" duration="3197000" />
+      <workItem from="1758470315918" duration="336000" />
     </task>
     <servers />
   </component>
